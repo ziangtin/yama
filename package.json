@@ -1,0 +1,23 @@
+{
+  "name": "yama",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "dependencies": {
+    "ant-design-vue": "4.x",
+    "vue": "^3.5.12",
+    "yama-ui": "workspace:^1.0.0",
+    "yama-utils": "workspace:^1.0.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.1.4",
+    "less": "^4.2.0",
+    "unplugin-vue-components": "^0.27.4",
+    "vite": "^5.4.10",
+    "vite-plugin-svg-icons": "^2.0.1",
+    "vite-plugin-windicss": "^1.9.3",
+    "windicss": "^3.5.6"
+  }
+}
