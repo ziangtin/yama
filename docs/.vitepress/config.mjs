@@ -5,6 +5,7 @@ import { createSvgIconsPlugin } from 'vite-plugin-svg-icons'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "Yama",
+  base:'/yama/',
   description: "yama document",
   themeConfig: {
     logo: '/assets/images/cat.svg',
