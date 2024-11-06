@@ -8,7 +8,7 @@ export default defineConfig({
   base:'/yama/',
   description: "yama document",
   themeConfig: {
-    logo: '/assets/images/cat.svg',
+    logo: '/public/images/cat.svg',
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: '首页', link: '/' },
