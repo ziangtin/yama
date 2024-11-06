@@ -12,7 +12,7 @@ export default defineConfig({
     nav: [
       { text: '首页', link: '/' },
       { text: '快速开始', link: '/guides/createProject' },
-      { text: '组件', link: '/components/svgIcon' }
+      { text: '组件', link: '/components/svgIconUsage' }
     ],
     sidebar: [
       {
