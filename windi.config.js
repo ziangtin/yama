@@ -4,7 +4,13 @@ function range(size, startAt = 1) {
 }
 export default defineConfig({
   extract: {
-    include: ['src/**/*.{vue,html,jsx,tsx}', 'index.html'],
+    include: [
+      'src/**/*.{vue,html,jsx,tsx}',
+      'index.html', 
+      '*/**/*.{vue,html,jsx,tsx,md}', 
+      'index.md',
+      './.vitepress/**/*.{js,ts,vue}'
+    ],
     exclude: ['node_modules', '.git']
   },
   attributify: {
