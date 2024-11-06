@@ -1,6 +1,3 @@
----
-title: SvgIcon
----
 # 介绍
 
 svg 图标组件

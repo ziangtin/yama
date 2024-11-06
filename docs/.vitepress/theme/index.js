@@ -8,7 +8,6 @@ import yamaUi from 'yama-ui'
 import 'virtual:svg-icons-register'
 import 'virtual:windi.css'
 /** @type {import('vitepress').Theme} */
-// /** @type {import('windicss').Config} */
 export default {
   title: 'Yama',
   extends: DefaultTheme,
