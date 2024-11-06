@@ -7,7 +7,7 @@
     },
     color: {
       type: String,
-      default: 'red'
+      default: ''
     },
     fillClass: {
       type: String,
