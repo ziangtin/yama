@@ -4,6 +4,7 @@ import path from 'path'
 import WindiCSS from 'vite-plugin-windicss'
 import { createSvgIconsPlugin } from 'vite-plugin-svg-icons'
 export default defineConfig({
+  base:'/yama/',
   plugins: [
     vue(),
     WindiCSS({

@@ -84,7 +84,8 @@ export default defineConfig({
             { text: '创建单仓库多项目', link: '/guides/createProject' },
             { text: 'Windi CSS', link: '/guides/windicss' },
             { text: 'svg图标', link: '/guides/svgIcon' },
-            { text: 'ant', link: '/guides/ant' }
+            { text: 'ant', link: '/guides/ant' },
+            { text: 'qiankun', link: '/guides/qiankun' }
           ]
         }
       ],

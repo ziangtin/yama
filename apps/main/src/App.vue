@@ -1,10 +1,10 @@
 <script setup>
-  import HelloWorld from './components/HelloWorld.vue'
+ 
 </script>
 
 <template>
-  <div class="h-full bg-[#0D465A]">
-    <HelloWorld msg="Vite + Vue" />
+  <div>
+    <router-view />
   </div>
 </template>
 
